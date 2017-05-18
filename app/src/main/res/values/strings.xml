@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AccelarometerAndroid</string>
+    <string name="_0_0">0.0</string>
+    <string name="_0_0_">0.0</string>
+    <string name="_0_0__">0.0</string>
+    <string name="current_acceleration">Current Acceleration:</string>
+    <string name="max_acceleration_x_axis">Max Acceleration : X axis : </string>
+    <string name="max_acceleration_z_axis">Max Acceleration :Z axis : </string>
+    <string name="max_acceleration">Max Acceleration!</string>
+    <string name="max_acceleration_y_axix">Max Acceleration: Y axis : </string>
+    <string name="_0_0___">0.0</string>
+    <string name="_00">0.0</string>
+    <string name="__0_0">0.0</string>
+    <string name="x_axis">X-axis : </string>
+    <string name="y_axis">Y-axis : </string>
+    <string name="z_axis">Z-axis : </string>
+</resources>
